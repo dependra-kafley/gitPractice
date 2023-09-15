@@ -1,2 +1,3 @@
 Hello World
+This is the line where the conflict should happen 
 Hi this is line number 2
